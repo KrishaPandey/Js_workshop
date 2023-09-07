@@ -1,0 +1,21 @@
+body{
+margin: 0px;
+padding: 0px;
+background-color: bisque
+}
+
+
+.container{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    font-size: large;
+}
+p{
+    width: 30vw;
+    line-height: 40px;
+}
+
+.mark{
+    background-color: red;
+}
